@@ -1,0 +1,11 @@
+header {
+    border: 1px solid red;
+}
+
+main {
+    border: 1px dotted blue;
+}
+
+footer {
+    border: 1px solid green;
+}
